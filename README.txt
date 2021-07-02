@@ -1,1 +1,3 @@
-JAR file can be found in LessonBookingSystem > out > artifacts > LessonBookingSystem_jar
+University Project involving OOP concepts. 
+
+Assignment brief and Report explain the project and code.
