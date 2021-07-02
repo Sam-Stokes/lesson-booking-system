@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LessonBookingSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LessonBookingSystem_jar</output-path>
+    <root id="archive" name="LessonBookingSystem.jar">
+      <element id="module-output" name="LessonBookingSystem" />
+    </root>
+  </artifact>
+</component>
